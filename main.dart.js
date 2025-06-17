@@ -35530,7 +35530,7 @@ $.tq.aP()
 n=$.bjF().w
 n===$&&A.b()
 n=A.a([new A.FT(n,null,null,null),A.bmZ()],t.f8)
-$.cU().aQl(n,A.b52("http://style-quest-api.runasp.net/",A.M(["Accept","application/json","Accept-Language","en"],m,t.z),!0))
+$.cU().aQl(n,A.b52("https://style-quest-api.runasp.net/",A.M(["Accept","application/json","Accept-Language","en"],m,t.z),!0))
 $.bbI=!0
 case 1:return A.t(q,r)}})
 return A.u($async$Iz,r)},
@@ -56597,7 +56597,7 @@ r=this.c
 q=r.y
 p=l.b
 o=t.p
-p=A.a([A.cD(A.aZ(A.a([new A.m3(1,A.b8(n,A.b6X("http://style-quest-api.runasp.net/"+s.c),B.o,n,n,new A.aW(l.k2,n,n,k,j,n,B.v),n,n,n,n,B.fj,n,n,n),n),B.b8,A.aD(A.ag(s.b,n,n,n,n,r.r,n,n,n),1,n),A.aL(A.a([A.aZ(A.a([A.ag(""+m.d+" Mins",n,n,n,n,q,n,n,n),B.cv,A.e2(B.wv,p,n,18)],o),B.l,B.j,B.k),B.n3,A.aZ(A.a([A.ag(A.i(m.c)+" SYP",n,n,n,n,q,n,n,n),B.cv,A.e2(B.ww,p,n,18)],o),B.l,B.j,B.k)],o),B.dH,B.ar,B.k)],o),B.l,B.j,B.k),70,n)],o)
+p=A.a([A.cD(A.aZ(A.a([new A.m3(1,A.b8(n,A.b6X("https://style-quest-api.runasp.net/"+s.c),B.o,n,n,new A.aW(l.k2,n,n,k,j,n,B.v),n,n,n,n,B.fj,n,n,n),n),B.b8,A.aD(A.ag(s.b,n,n,n,n,r.r,n,n,n),1,n),A.aL(A.a([A.aZ(A.a([A.ag(""+m.d+" Mins",n,n,n,n,q,n,n,n),B.cv,A.e2(B.wv,p,n,18)],o),B.l,B.j,B.k),B.n3,A.aZ(A.a([A.ag(A.i(m.c)+" SYP",n,n,n,n,q,n,n,n),B.cv,A.e2(B.ww,p,n,18)],o),B.l,B.j,B.k)],o),B.dH,B.ar,B.k)],o),B.l,B.j,B.k),70,n)],o)
 k=m.e.length
 if(k!==0)p.push(new A.aH(B.Zy,A.aL(A.a([A.ag("Service Offered By:",n,n,n,n,q,n,n,n),B.av,A.beW(B.eX,A.x9(k,new A.aIW(m,l,r),!0,t.l7),B.bh,B.eX,5,10,n)],o),B.U,B.j,B.k),n))
 return A.aL(p,B.U,B.j,B.k)},
@@ -56682,7 +56682,7 @@ o=this.c
 n=""+j.d+" Mins"
 m=o.Q
 l=t.p
-return A.b8(k,A.aL(A.a([B.av,A.aD(new A.m3(1,A.b8(k,A.b6X("http://style-quest-api.runasp.net/"+p.c),B.o,k,k,new A.aW(q,k,k,s,k,k,B.v),k,k,k,k,B.fj,k,k,k),k),1,k),B.j1,A.ag(A.aN0(p.b),k,k,k,k,o.w,B.aY,k,k),B.tc,new A.aH(B.ol,A.aZ(A.a([A.aD(A.aL(A.a([A.e2(B.wv,r,k,13),B.n3,A.ag(n,k,k,k,k,m,k,k,k)],l),B.l,B.j,B.k),1,k),A.aD(A.aL(A.a([A.e2(B.ww,r,k,13),B.n3,A.ag(n,k,k,k,k,m,k,k,k)],l),B.l,B.j,B.k),1,k)],l),B.l,B.j,B.k),k),B.j1],l),B.l,B.j,B.k),B.o,k,k,new A.aW(i.k2,k,k,h,g,k,B.v),k,k,k,k,k,k,k,k)},
+return A.b8(k,A.aL(A.a([B.av,A.aD(new A.m3(1,A.b8(k,A.b6X("https://style-quest-api.runasp.net/"+p.c),B.o,k,k,new A.aW(q,k,k,s,k,k,B.v),k,k,k,k,B.fj,k,k,k),k),1,k),B.j1,A.ag(A.aN0(p.b),k,k,k,k,o.w,B.aY,k,k),B.tc,new A.aH(B.ol,A.aZ(A.a([A.aD(A.aL(A.a([A.e2(B.wv,r,k,13),B.n3,A.ag(n,k,k,k,k,m,k,k,k)],l),B.l,B.j,B.k),1,k),A.aD(A.aL(A.a([A.e2(B.ww,r,k,13),B.n3,A.ag(n,k,k,k,k,m,k,k,k)],l),B.l,B.j,B.k),1,k)],l),B.l,B.j,B.k),k),B.j1],l),B.l,B.j,B.k),B.o,k,k,new A.aW(i.k2,k,k,h,g,k,B.v),k,k,k,k,k,k,k,k)},
 $S:118}
 A.a27.prototype={
 G(a){var s,r,q,p,o,n,m,l,k,j=null,i=A.P(a).ax,h=t.l7,g=J.Bs(12,h)
@@ -56961,7 +56961,7 @@ s=n==null?r:n.G8(16,B.w)
 n=t.p
 return A.aL(A.a([A.b8(r,A.aZ(A.a([A.aD(A.ag("Sequence",r,r,r,r,m,B.aY,r,r),12,r),A.aD(A.ag("Icon",r,r,r,r,m,B.aY,r,r),12,r),A.aD(A.ag("Title in English",r,r,r,r,m,r,r,r),20,r),A.aD(A.ag("Title in Arabic",r,r,r,r,m,r,r,r),20,r),A.aD(A.ag("Covered Genders",r,r,r,r,m,r,r,r),20,r),A.aD(A.ag("",r,r,r,r,m,r,r,r),5,r)],n),B.l,B.j,B.k),B.o,r,r,new A.aW(p.b,r,r,r,r,r,B.v),r,50,r,r,r,r,r,r),A.aD(A.b68(r,new A.aLi(this,p,s),J.bX(this.e),r,!1),1,r)],n),B.l,B.j,B.k)}}
 A.aLi.prototype={
-$2(a,b){var s,r=null,q=this.a,p=J.be(q.e,b),o=this.b,n=(b&1)===1?o.k2:o.b.a3(0.05),m=this.c,l=A.aD(A.ag(B.f.j(b+1),r,r,r,r,m,B.aY,r,r),12,r),k=A.aD(new A.aH(B.fk,A.b6X("http://style-quest-api.runasp.net/"+p.d),r),12,r),j=A.aD(A.ag(p.b,r,r,r,r,m,r,r,r),20,r)
+$2(a,b){var s,r=null,q=this.a,p=J.be(q.e,b),o=this.b,n=(b&1)===1?o.k2:o.b.a3(0.05),m=this.c,l=A.aD(A.ag(B.f.j(b+1),r,r,r,r,m,B.aY,r,r),12,r),k=A.aD(new A.aH(B.fk,A.b6X("https://style-quest-api.runasp.net/"+p.d),r),12,r),j=A.aD(A.ag(p.b,r,r,r,r,m,r,r,r),20,r)
 m=A.aD(A.ag(p.c,r,r,r,r,m,r,r,r),20,r)
 s=$.b9D().i(0,p.e)
 s.toString
@@ -58132,7 +58132,7 @@ this.a.c.sl(0,s)
 return s},
 $S:0}
 A.mi.prototype={
-G(a){var s=null,r="http://style-quest-api.runasp.net/"+this.c
+G(a){var s=null,r="https://style-quest-api.runasp.net/"+this.c
 return new A.Gx(new A.rA(s,r,s,1,s,s,s,s,B.a16),r,new A.amR(),new A.amS(),B.nh,s)}}
 A.amR.prototype={
 $3(a,b,c){var s=c.gaU6()
